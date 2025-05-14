@@ -21,4 +21,4 @@ jwt:
 app:
   service:
     profile: http://localhost:8081/api/v1/profiles
-    internal_profile: http://localhost:8081/api/v1/profiles
+    internal_profile: http://localhost:8081/api/v1/internal/profiles
